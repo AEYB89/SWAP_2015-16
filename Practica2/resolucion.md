@@ -4,7 +4,7 @@
 
 Desde la máquina principal, creamos un tar con el directorio /root/Desktop en la segunda máquina.
 
-- [Creando el tar](s1380.photobucket.com/user/adnan1989/media/tar server1_zpsuz88nzi1.png.html)
+- [Creando el tar](http://s1380.photobucket.com/user/adnan1989/media/tar server1_zpsuz88nzi1.png.html)
 - [tar creado](http://s1380.photobucket.com/user/adnan1989/media/tar%20server2_zpswhes10pk.png.html)
 
 
