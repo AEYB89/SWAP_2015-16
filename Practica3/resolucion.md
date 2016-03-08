@@ -5,7 +5,7 @@
 Trás crear una nueva máquina virtual llamada **balanceador**, instalamos haproxy con el comando: **apt-get install haproxy**.
 A continuación, pasamos a la instalación de nginx. Dicho proceso se muestra en la captura de abajo:
 
-- [Instalando NginX](http://http://s1380.photobucket.com/user/adnan1989/media/install%20nginx_zpsexho8yyh.png.html)
+- [Instalando NginX](http://s1380.photobucket.com/user/adnan1989/media/install%20nginx_zpsexho8yyh.png.html)
 
 
 ## 2. Configuración de HAproxy y realización de peticiones desde máquina externa
