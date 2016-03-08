@@ -5,7 +5,7 @@
 Trás crear una nueva máquina virtual llamada **balanceador**, instalamos haproxy con el comando: **apt-get install haproxy**.
 A continuación, pasamos a la instalación de nginx. Dicho proceso se muestra en la captura de abajo:
 
-- [Instalando NginX](http://s1380.photobucket.com/user/adnan1989/media/install%20nginx_zpsexho8yyh.png)
+- [Instalando NginX](http://http://s1380.photobucket.com/user/adnan1989/media/install%20nginx_zpsexho8yyh.png.html)
 
 
 ## 2. Configuración de HAproxy y realización de peticiones desde máquina externa
@@ -14,8 +14,8 @@ Una vez instalado, pasamos a configurarlo para que reparta la carga siguiendo el
 con el comando: **/usr/sbin/haproxy -f /etc/haproxy/haproxy.cfg**. Después, nos vamos a otra máquina para hacer 
 peticiones al balanceador con curl:
 
-- [Configurando HAproxy para Robin-Round](http://s1380.photobucket.com/user/adnan1989/media/haproxy%20confi%20rr_zpsgpx6i02f.png)
-- [Haciendo peticiones](http://s1380.photobucket.com/user/adnan1989/media/access%20haproxy%20robin-round_zpsd8xbbj29.png)
+- [Configurando HAproxy para Robin-Round](http://s1380.photobucket.com/user/adnan1989/media/haproxy%20confi%20rr_zpsgpx6i02f.png.html)
+- [Haciendo peticiones](http://s1380.photobucket.com/user/adnan1989/media/access%20haproxy%20robin-round_zpsd8xbbj29.png.html)
 
 Ahora pasamos a configurarlo para que reparta la carga según la ponderación que tengan los servidores de la granja y lo reiniciamos.
 A continuación, igual que en el proceso anterior, hacemos peticiones con curl desde otra máquina:
