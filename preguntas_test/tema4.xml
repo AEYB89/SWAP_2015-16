@@ -1,0 +1,17 @@
+<pregunta>
+  <enunciado>Indica cual de las siguientes afirmaciones es correcta</enunciado>
+  <opcionA>Un balanceador de carga sirve por si solo paquetes a internet</opcionA>
+  <opcionB>Un balancador de carga software implmenta todos los algoritmos de balanceo</opcionB>
+  <opcionC>En el balanceo por prioridad, dentro de cada granja se distribute la carga por round-robin</opcionC>
+  <opcionD>El balanceo por software es mas eficiente que por hardware</opcionD>
+  <solucion>C</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>En el balanceo de carga por prioridad:</enunciado>
+  <opcionA>Se asigna una prioridad a cada servidor</opcionA>
+  <opcionB>Se asigna un % de trabajo a cada servidor</opcionB>
+  <opcionC>Se reparte la carga por turnos</opcionC>
+  <opcionD>Se asigna una prioridad y un numero maximo de conexiones a cada granja</opcionD>
+  <solucion>D</solucion>
+</pregunta>

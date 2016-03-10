@@ -1,0 +1,17 @@
+<pregunta>
+  <enunciado>Un servidor esta caido durante 2354h al año, teniendo en cuenta que en un año hay 8760h, su disponibilidad es de un:</enunciado>
+  <opcionA>78,65%</opcionA>
+  <opcionB>73,12%</opcionB>
+  <opcionC>65,89%</opcionC>
+  <opcionD>59.67%</opcionD>
+  <solucion>B</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Indica cual de las siguientes afirmaciones es falsa</enunciado>
+  <opcionA>Mediante el escalado vertical se lleva a cabo la escalabilidad perfecta</opcionA>
+  <opcionB>Decidir cómo añadir componentes al sistema web es crucial en el diseño y el mantenimiento</opcionB>
+  <opcionC>A veces la amplición vertical puede ser suficiente</opcionC>
+  <opcionD>La ampliación horizontal consiste en añadir una máquina a algún subsistema</opcionD>
+  <solucion>A</solucion>
+</pregunta>
