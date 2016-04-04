@@ -56,7 +56,7 @@ Con el parámetro **-b** indicamos que haga una prueba de benchmarking, con **-t
 Hacemos diez pruebas y nos quedamos con los siguientes datos:
 
 |  |**server**|**server**|**server**|**server**|**nginx**|**nginx**|**nginx**|**nginx**|**haproxy**|**haproxy**|**haproxy**|**haproxy**|
-|  |:--------:|:--------:|:--------:|:--------:|:-------:|:-------:|:-------:|:-------:|:---------:|:---------:|:---------:|:---------:|
+|:-:|:--------:|:--------:|:--------:|:--------:|:-------:|:-------:|:-------:|:-------:|:---------:|:---------:|:---------:|:---------:|
 |  |D.	      |T. E.	 |T. R.	    |S. P. S.  |D.	 |T. E.	   |T. R.    |S. P. S. |D.	   |T. E.      |T. R.	   |S. P. S.   |
 |P1|100%      |59,90	 |0,01	    |3512,50   |100%	 |59,77	   |0,01     |1791,82  |100%	   |59,66      |0,01	   |2594,55    |
 |P2|100%      |59,10	 |0,01	    |3520,86   |100%	 |59,99	   |0,01     |1717,02  |100%	   |59,13      |0,01	   |2744,75    |
@@ -71,11 +71,11 @@ Hacemos diez pruebas y nos quedamos con los siguientes datos:
 |Media|100    |59,411	 |0,003	    |3944,217  |100	 |59,659   |0,01     |1747,818 |100	   |59,665     |0,01	   |2679,448   |
 |DT   |0      |0,341	 |0,0045    |245,393   |0	 |0,179	   |0	     |38,772   |0	   |0,276      |0	   |75,701     |
 
-**D.** : Disponibilidad.
-**T.E.** : Tiempo de ejecución (segundos).
-**T.R.** : Tiempo de respuesta (segundos).
-**S.P.S.** : Solicitudes por segundo.
-**D.T.** : Desviación típica.
+- **D.** : Disponibilidad.
+- **T.E.** : Tiempo de ejecución (segundos).
+- **T.R.** : Tiempo de respuesta (segundos).
+- **S.P.S.** : Solicitudes por segundo.
+- **D.T.** : Desviación típica.
 
 
 Apartir de la tabla anterior obtenemos las siguientes gráficas:
