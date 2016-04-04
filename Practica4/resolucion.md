@@ -13,7 +13,7 @@ Con el parámetro **-n** indicamos la carga, y con **-c** la concurrencia.
 Hacemos diez pruebas y nos quedamos con los siguientes datos:
 
 |	 |**servidor**|**servidor**|**servidor**|**nginx**|**nginx**|**nginx**|**haproxy**|**haproxy**|**haproxy**|
-|	 |:----------:|:----------:|:----------:|:-------:|:-------:|:-------:|:---------:|:---------:|:---------:|
+|:------:|:----------:|:----------:|:----------:|:-------:|:-------:|:-------:|:---------:|:---------:|:---------:|
 |	 |T. N. P. P. |S. F.       |S. P. S.    |T.N.P.P. |S. F.    |S. P. S. |T. N. P. P.|S. F.      |S. P. S.   |
 |Prueba 1|1,391       |0           |7910,58     |5,291    |0        |1688,83  |2,963	  |0	      |3374,97	  |
 |Prueba 2|1,637	      |0	   |6108,21	|5,889    |0	    |1697,97  |2,862	  |0	      |3494,10	  |
@@ -28,10 +28,10 @@ Hacemos diez pruebas y nos quedamos con los siguientes datos:
 |Media	  |1,4075     |0	   |7255,979	|5,7894   |0	    |1727,913 |2,8683	  |0	      |3509,123	  |
 |D. T.	  |0,14	      |0	   |837,215	|0,247	  |0	    |77,905   |0,250	  |0	      |261,058	  |
 
-**T.N.P.P.** : Tiempo necesario para la prueba (segundos).
-**S.F.** : Solicitudes fallidas.
-**S.P.S.** : Solicitudes por segundo.
-**D.T.** : Desviación típica.
+- **T.N.P.P.** : Tiempo necesario para la prueba (segundos).
+- **S.F.** : Solicitudes fallidas.
+- **S.P.S.** : Solicitudes por segundo.
+- **D.T.** : Desviación típica.
 
 
 Apartir de la tabla anterior obtenemos las siguientes gráficas:
@@ -81,7 +81,7 @@ Hacemos diez pruebas y nos quedamos con los siguientes datos:
 Apartir de la tabla anterior obtenemos las siguientes gráficas:
 
 - [Media: Disponibilidad](http://s1380.photobucket.com/user/adnan1989/media/siege%20-%20media%20dispo_zpsbrnordrd.jpg.html)
-- [Media: Tiempo de ejecución](s1380.photobucket.com/user/adnan1989/media/siege - media TE_zpsrjh1wmnu.jpg.html)
+- [Media: Tiempo de ejecución](http://s1380.photobucket.com/user/adnan1989/media/siege - media TE_zpsrjh1wmnu.jpg.html)
 - [Desviación típica: Tiempo de ejecución](http://s1380.photobucket.com/user/adnan1989/media/seige%20-%20DT%20TE_zpslpib9xqn.jpg.html)
 - [Media: Tiempo de respuesta](http://s1380.photobucket.com/user/adnan1989/media/siege%20-%20media%20TR_zpsfug9asex.jpg.html)
 - [Desviación típica: Tiempo de respuesta](http://s1380.photobucket.com/user/adnan1989/media/siege%20-%20DT%20TR_zpsip3y54i9.jpg.html)
