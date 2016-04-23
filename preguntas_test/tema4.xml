@@ -2,7 +2,7 @@
   <enunciado>Indica cual de las siguientes afirmaciones es correcta</enunciado>
   <opcionA>Un balanceador de carga sirve por si solo paquetes a internet</opcionA>
   <opcionB>Un balancador de carga software implmenta todos los algoritmos de balanceo</opcionB>
-  <opcionC>En el balanceo por prioridad, dentro de cada granja se distribute la carga por round-robin</opcionC>
+  <opcionC>En el balanceo por prioridad, dentro de cada granja se distribuye la carga por round-robin</opcionC>
   <opcionD>El balanceo por software es mas eficiente que por hardware</opcionD>
   <solucion>C</solucion>
 </pregunta>
