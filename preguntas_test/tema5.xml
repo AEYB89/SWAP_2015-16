@@ -1,0 +1,17 @@
+<pregunta>
+  <enunciado>El numero de conexiones concurrentes afecta al rendimiento:</enunciado>
+  <opcionA>Para el trafico TCP</opcionA>
+  <opcionB>Siempre</opcionB>
+  <opcionC>Para el trafico UDP</opcionC>
+  <opcionD>Nunca</opcionD>
+  <solucion>A</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>El tipo de prueba Overload(sobrecarga) consiste en:</enunciado>
+  <opcionA>Hacer pruebas preliminares para comprobar que el sistema esta listo para los siguientes tests</opcionA>
+  <opcionB>Aplicar fuertes picos de carga drante cortos periodos</opcionB>
+  <opcionC>Simular cargas lo mas parecidas a la real</opcionC>
+  <opcionD>Ninguna de las anteriores</opcionD>
+  <solucion>B</solucion>
+</pregunta>
