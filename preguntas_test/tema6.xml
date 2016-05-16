@@ -1,0 +1,17 @@
+<pregunta>
+  <enunciado>Un ataque en el que se alteran los paquetes afecta a la:</enunciado>
+  <opcionA>Disponibilidad</opcionA>
+  <opcionB>Confidencialidad</opcionB>
+  <opcionC>Integridad</opcionC>
+  <opcionD>Todas las anteriores</opcionD>
+  <solucion>C</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Si hablamos de poner contraseñas a la BIOS y a la consola, estamos hablando de politicas de seguridad a nivel de:</enunciado>
+  <opcionA>Red</opcionA>
+  <opcionB>Administrador</opcionB>
+  <opcionC>Cuentas de servicios</opcionC>
+  <opcionD>Fisico</opcionD>
+  <solucion>D</solucion>
+</pregunta>

@@ -1,0 +1,17 @@
+<pregunta>
+  <enunciado>Si hacemos una configuracion RAID que reparte los datos entre varios discos, se trata de:</enunciado>
+  <opcionA>RAID 5</opcionA>
+  <opcionB>RAID 0</opcionB>
+  <opcionC>RAID 1</opcionC>
+  <opcionD>RAID 2</opcionD>
+  <solucion>B</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Indique cual de la siguientes opciones sobre el almacenamiento basado en RAID es incorrecta:</enunciado>
+  <opcionA>Puede mejorar el rendimiento de ciertas aplicaciones</opcionA>
+  <opcionB>Permite acceder a los datos si falla un disco</opcionB>
+  <opcionC>No protege los datos</opcionC>
+  <opcionD>Facilita el traslado del almacenamiento a un sistema nuevo</opcionD>
+  <solucion>D</solucion>
+</pregunta>
