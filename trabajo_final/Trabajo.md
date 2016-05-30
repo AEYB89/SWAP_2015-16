@@ -21,7 +21,7 @@
 - [Balanceo de carga con Load Directors, IPVS y UltraMonkey](http://wiki.canaima.softwarelibre.gob.ve/wiki/Balanceo_de_servidores_y_alta_disponibilidad_usando_Load_Directors)
 - [Balanceo de carga dns](http://www.davidromerotrejo.com/2014/10/dns-load-balancing.html)
 - [Tutorial sobre el montaje de un BC en CentOS](https://www.jsitech.com/linux/montando-un-balanceador-de-carga-simple-en-linux-centos/)
-- [Tipos de despliegues usando balanceadores de carga](http://www.davidromerotrejo.com/2014/02/balanceadores-de-carga.html)
+- [Tipos de diseños de despliegues de balanceadores de carga](http://www.davidromerotrejo.com/2014/02/balanceadores-de-carga.html)
 - [Tutorial sobre cómo implementa un balanceo de carga con alt disponibilidad](http://lobobinario.blogspot.com.es/2011/09/cluster-de-alta-disponibilidad-balanceo.html)
 - [Videotutorial de configuración de Apache cómo BC](https://www.youtube.com/watch?v=smpJyjBCqk4)
 - [Videotutorial de configuración del BC un Windows Server 2008](https://www.youtube.com/watch?v=HUh_VveliII)
