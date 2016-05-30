@@ -22,7 +22,7 @@
 - [Balanceo de carga dns](http://www.davidromerotrejo.com/2014/10/dns-load-balancing.html)
 - [Tutorial sobre el montaje de un BC en CentOS](https://www.jsitech.com/linux/montando-un-balanceador-de-carga-simple-en-linux-centos/)
 - [Tipos de diseños de despliegues de balanceadores de carga](http://www.davidromerotrejo.com/2014/02/balanceadores-de-carga.html)
-- [Tutorial sobre cómo implementa un balanceo de carga con alt disponibilidad](http://lobobinario.blogspot.com.es/2011/09/cluster-de-alta-disponibilidad-balanceo.html)
+- [Tutorial sobre cómo implementar un balanceo de carga con alta disponibilidad](http://lobobinario.blogspot.com.es/2011/09/cluster-de-alta-disponibilidad-balanceo.html)
 - [Videotutorial de configuración de Apache cómo BC](https://www.youtube.com/watch?v=smpJyjBCqk4)
 - [Videotutorial de configuración del BC un Windows Server 2008](https://www.youtube.com/watch?v=HUh_VveliII)
 - [Videotutorial de configuración de un BC Fortinet](https://www.youtube.com/watch?v=CYb2FBSfVYE)
