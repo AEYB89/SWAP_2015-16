@@ -4,9 +4,9 @@
 
 - [Balanceo de carga dinámico](http://blog.intelligenia.com/2012/03/balanceo-dinamico-de-servidores-web.html)
 - [Configuración de un BC en un Cluster](http://www.linux-party.com/index.php/4-apache/8554-configurar-un-cluster-para-un-servidor-de-balanceo-de-carga-entre-servidores-web)
-- [Balanceo de carga en servidores Linux: Intro](http://www.forat.info/2010/06/08/balanceo-de-carga-entre-servidores-bajo-linux-debian-introduccion/)
-- [Balanceo de carga en servidores Linux: Hardware](http://www.forat.info/2010/06/11/balanceo-de-carga-entre-servidores-bajo-linux-debian-hardware/)
-- [Balanceo de carga en servidores Linux: S.O.](http://www.forat.info/2010/06/14/balanceo-de-carga-entre-servidores-bajo-linux-debian-sistema-operativo/)
+- [Balanceo de carga en servidores Debian: Intro](http://www.forat.info/2010/06/08/balanceo-de-carga-entre-servidores-bajo-linux-debian-introduccion/)
+- [Balanceo de carga en servidores Debian: Hardware](http://www.forat.info/2010/06/11/balanceo-de-carga-entre-servidores-bajo-linux-debian-hardware/)
+- [Balanceo de carga en servidores Debian: S.O.](http://www.forat.info/2010/06/14/balanceo-de-carga-entre-servidores-bajo-linux-debian-sistema-operativo/)
 - [Balanceo de carga con Apache y Tomcat](http://dasubipar.blogspot.com.es/2012/04/balanceo-de-carga-web-apachetomcat-en.html)
 - [Configuración de NginX cómo balanceador de carga](http://www.digitalvalley.com/blog/configurar-nginx-como-balanceador-de-carga/)
 - [Balanceo de carga con HAproxy: Intro](http://www.maestrosdelweb.com/editorial/balance-de-carga-haproxy/)
